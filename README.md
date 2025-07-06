@@ -58,7 +58,8 @@ A `Gradio App` was coded to deploy the LLM model in HuggingFace. This live huggi
 
 
 ## Live Website Deployment
-Deployed a Flask App, built to provide user interface to users. Check the `flask-deployment` github branch. The website will be live at EarlyMed [https://earlymed.netlify.app/] with some other features as well
+Deployed a Flask App, built to provide user interface to users. Check the `flask-deployment` github branch. The website will be live at [EarlyMed]
+(https://earlymed.netlify.app/) with some other features as well
 
 
 
